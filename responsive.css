@@ -1,0 +1,128 @@
+
+
+
+
+/*// X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap*/
+@media (min-width: 320px) and (max-width:575.96px) {
+	.header-logo {
+    width: 207px;
+}
+
+	.header-icon ul {
+    display: none;
+}
+
+	.banner-overly {
+    display: contents;
+}
+
+	.about-main-content {
+    text-align: center;
+}
+
+	.count-middle {
+    margin-left: 100px;
+}
+
+	.count-content {
+    margin: 0 10px 34px 10px;
+}
+
+	.icon-main {
+    left: 90px;
+}
+
+	.three-full-cintent {
+    margin-top: 75px;
+}
+
+	.fortfolio-img {
+    margin-bottom: -34px;
+}
+
+	.team-person {
+    text-align: -webkit-center;
+}
+
+	.piradim {
+   
+    left: 124px;
+    
+}
+
+	.footer-header{
+		text-align: center;
+	}
+
+element.style {
+    text-align: center;
+}
+
+	.footer-last{
+		text-align: center;
+	}
+	
+}
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.96px) { 
+
+	.banner-overly {
+    display: contents;
+}
+
+	.about-main-content {
+    text-align: center;
+}
+
+	.about-main-img{
+	text-align: center;
+}
+
+	.count-middle {
+    margin-left: 76px;
+}
+
+	.count-content {
+    margin: 0 10px 35px 10px;
+}
+
+	.icon-main {
+    left: 200px;
+}
+
+	.three-full-cintent {
+    margin-top: 75px;
+}
+
+	.fortfolio-img {
+    margin-bottom: -34px;
+}
+
+	.piradim {
+   
+    left: 228px;
+    
+}
+
+	.footer-com-about{
+		text-align: center;
+	}
+
+	.footer-header{
+		text-align: center;
+	}
+	
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { ... }
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { ... }
+
+/*// X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
+
+/*// XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) { ... }
